@@ -33,11 +33,13 @@ A telegram bot list collection by [@FayasNoushad](https://github.com/FayasNousha
 
 - [FnQRCodeBot](https://telegram.me/FnQRCodeBot)
 
+
 ---
 
 ## Telegraph Uploaders
 
 - [FnTelegraphBot](https://telegram.me/FnTelegraphBot)
+- [QR_EK_Bot](https://telegram.me/Qr_ek_bot)
 
 ---
 
